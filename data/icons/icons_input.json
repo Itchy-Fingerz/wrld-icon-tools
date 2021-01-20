@@ -1084,6 +1084,90 @@
    "id": "nav_container",
    "file": "pin/Nav/nav_container.svg",
    "icon-size": 53
+  },
+  {
+   "id": "emoji_angry",
+   "file": "menu/emojis/emoji_angry.svg"
+  },
+  {
+   "id": "emoji_blush",
+   "file": "menu/emojis/emoji_blush.svg"
+  },
+  {
+   "id": "emoji_cry",
+   "file": "menu/emojis/emoji_cry.svg"
+  },
+  {
+   "id": "emoji_disappointed",
+   "file": "menu/emojis/emoji_disappointed.svg"
+  },
+  {
+   "id": "emoji_generic",
+   "file": "menu/emojis/emoji_generic.svg"
+  },
+  {
+   "id": "emoji_grinning",
+   "file": "menu/emojis/emoji_grinning.svg"
+  },
+  {
+   "id": "emoji_heart_eyes",
+   "file": "menu/emojis/emoji_heart_eyes.svg"
+  },
+  {
+   "id": "emoji_heavy_check_mark",
+   "file": "menu/emojis/emoji_heavy_check_mark.svg"
+  },
+  {
+   "id": "emoji_laughing",
+   "file": "menu/emojis/emoji_laughing.svg"
+  },
+  {
+   "id": "emoji_mask",
+   "file": "menu/emojis/emoji_mask.svg"
+  },
+  {
+   "id": "emoji_muscle",
+   "file": "menu/emojis/emoji_muscle.svg"
+  },
+  {
+   "id": "emoji_neutral_face",
+   "file": "menu/emojis/emoji_neutral_face.svg"
+  },
+  {
+   "id": "emoji_robot",
+   "file": "menu/emojis/emoji_robot.svg"
+  },
+  {
+   "id": "emoji_skull",
+   "file": "menu/emojis/emoji_skull.svg"
+  },
+  {
+   "id": "emoji_sleeping",
+   "file": "menu/emojis/emoji_sleeping.svg"
+  },
+  {
+   "id": "emoji_stressed",
+   "file": "menu/emojis/emoji_stressed.svg"
+  },
+  {
+   "id": "emoji_stuck_out_tongue_winking_eye",
+   "file": "menu/emojis/emoji_stuck_out_tongue_winking_eye.svg"
+  },
+  {
+   "id": "emoji_sunglasses",
+   "file": "menu/emojis/emoji_sunglasses.svg"
+  },
+  {
+   "id": "emoji_thumbsdown",
+   "file": "menu/emojis/emoji_thumbsdown.svg"
+  },
+  {
+   "id": "emoji_thumbsup",
+   "file": "menu/emojis/emoji_thumbsup.svg"
+  },
+  {
+   "id": "emoji_x",
+   "file": "menu/emojis/emoji_x.svg"
   }
  ]
 }
